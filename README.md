@@ -1,1 +1,1 @@
-Created a tribute page and zuri training start
+Created a tribute page and zuri training start now
